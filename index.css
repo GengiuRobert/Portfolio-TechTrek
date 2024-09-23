@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: lightblue;
     margin: 0;
@@ -70,7 +74,8 @@ footer {
     font-size: 1.5em;
 }
 
-.about-me {
+.about-me,
+.portfolio {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.5em;
@@ -80,7 +85,9 @@ footer {
 }
 
 .about-me h1,
-.about-me p {
+.about-me p,
+.portfolio h1,
+.portfolio p {
     padding: 10px;
 }
 
