@@ -201,6 +201,43 @@ footer {
     color: white;
 }
 
+#me {
+    width: 70%;
+    height: 70%;
+    border-radius: 50%;
+    margin-top: 10px;
+    transition: filter 0.5s ease;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+
+.hover-text {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.image-container:hover #me {
+    filter: blur(5px);
+}
+
+.image-container:hover .hover-text {
+    opacity: 1;
+}
+
 @media screen and (max-width:768px) {
     .navbar ul {
         list-style: none;
@@ -236,5 +273,11 @@ footer {
         display: flex;
         flex-direction: column;
         text-align: center;
+    }
+
+    #me {
+        width: 50%;
+        height: 50%;
+        border-radius: 50%;
     }
 }
