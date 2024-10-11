@@ -1,0 +1,100 @@
+{
+    "projects": [
+        {
+            "imagePath": "img/prezentare-produs.jpg",
+            "title": "Ford Kuga Presentation",
+            "viewSource": {
+                "href": "https://github.com/GengiuRobert/GengiuRobert.github.io",
+                "text": "View Source"
+            },
+            "tryItLive": {
+                "href": "https://gengiurobert.github.io/html/index.html",
+                "text": "Try it Live"
+            }
+        },
+        {
+            "imagePath": "img/coming-soon-page.jpg",
+            "title": "Coming Soon Page",
+            "viewSource": {
+                "href": "https://github.com/GengiuRobert/Comin-Soon-Page---Car-Shop",
+                "text": "View Source"
+            },
+            "tryItLive": {
+                "href": "https://gengiurobert.github.io/Comin-Soon-Page---Car-Shop/",
+                "text": "Try it Live"
+            }
+        },
+        {
+            "imagePath": "img/flex-vs-grid.jpg",
+            "title": "Flexbox & Grid",
+            "viewSource": {
+                "href": "https://github.com/GengiuRobert/CSS-Flexbox-VS-CSS-Grid",
+                "text": "View Source"
+            },
+            "tryItLive": {
+                "href": "https://gengiurobert.github.io/CSS-Flexbox-VS-CSS-Grid/flexbox.html",
+                "text": "Try it Live"
+            }
+        },
+        {
+            "imagePath": "img/back-to-top.jpg",
+            "title": "Back To Top Button Page",
+            "viewSource": {
+                "href": "https://github.com/GengiuRobert/BackToTopPage-HTML-CSS",
+                "text": "View Source"
+            },
+            "tryItLive": {
+                "href": "https://gengiurobert.github.io/BackToTopPage-HTML-CSS/",
+                "text": "Try it Live"
+            }
+        },
+        {
+            "imagePath": "img/tip-calculator.jpg",
+            "title": "Receipt Tip Calculator",
+            "viewSource": {
+                "href": "https://github.com/GengiuRobert/Tip-Calculator---JS",
+                "text": "View Source"
+            },
+            "tryItLive": {
+                "href": "https://gengiurobert.github.io/Tip-Calculator---JS/",
+                "text": "Try it Live"
+            }
+        },
+        {
+            "imagePath": "img/random-winner-picker.jpg",
+            "title": "Random Winner Picker",
+            "viewSource": {
+                "href": "https://github.com/GengiuRobert/Random-Winner-Picker---JS",
+                "text": "View Source"
+            },
+            "tryItLive": {
+                "href": "https://gengiurobert.github.io/Random-Winner-Picker---JS/",
+                "text": "Try it Live"
+            }
+        },
+        {
+            "imagePath": "img/dropdown-responsive-menu.jpg",
+            "title": "Dropdown Responsive Menu",
+            "viewSource": {
+                "href": "https://github.com/GengiuRobert/Dropdown-Responsive-Menu---JS",
+                "text": "View Source"
+            },
+            "tryItLive": {
+                "href": "https://gengiurobert.github.io/Dropdown-Responsive-Menu---JS//",
+                "text": "Try it Live"
+            }
+        },
+        {
+            "imagePath": "img/currency-converter.jpg",
+            "title": "Currency Converter Wich Works Offline Also",
+            "viewSource": {
+                "href": "https://github.com/GengiuRobert/Currency-Convertor-JS",
+                "text": "View Source"
+            },
+            "tryItLive": {
+                "href": "https://gengiurobert.github.io/Currency-Convertor-JS/",
+                "text": "Try it Live"
+            }
+        }
+    ]
+}
